@@ -1,0 +1,5 @@
+{
+  "name": "SonicPulse Trends",
+  "description": "A real-time trending music dashboard powered by Gemini AI. Visualize global music trends, analyze genre shifts, and export raw data with Google Search grounding.",
+  "requestFramePermissions": []
+}
